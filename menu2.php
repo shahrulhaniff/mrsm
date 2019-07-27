@@ -3,7 +3,7 @@
  
  <h1 class="w3-padding-64 w3-center"><b>SISTEM<br>OUTING</b></h1>
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLOSE</a>
-  <a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button">LAMAN UTAMA</a>
+  <a href="pengurusan.php" onclick="w3_close()" class="w3-bar-item w3-button">Utama</a>
   <a href="senarai.php" onclick="w3_close()" class="w3-bar-item w3-button">Senarai Permohonan</a>
   <a href="logout.php" onclick="w3_close()" class="w3-bar-item w3-button">Log Keluar</a>
 </nav>
